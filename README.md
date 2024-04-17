@@ -1,2 +1,0 @@
-# magic-cube
-cube fly
